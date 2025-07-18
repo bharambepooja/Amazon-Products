@@ -1,14 +1,18 @@
 🛍️ Amazon Product Sales Analysis Dashboard
+
 A dynamic Power BI dashboard built to analyze sales, product performance, and customer reviews across multiple Amazon product categories—enabling data-driven business decisions and performance tracking.
 
 📝 1. Project Title / Headline
+
 📦 Data-Driven Retail Insights: Amazon Product Sales Analysis Dashboard
 A comprehensive, interactive Power BI report designed to monitor and evaluate sales trends, category performance, and consumer feedback for Amazon-listed products throughout the year.
 
 🎯 2. Short Description / Purpose
+
 This dashboard provides a clear visualization of sales data from Amazon across different product categories. It empowers sales teams, category managers, and marketing professionals to uncover high-performing products, evaluate customer response, and make informed inventory and marketing decisions.
 
 ⚙️ 3. Tech Stack
+
 The dashboard was built using the following tools and technologies:
 
 📊 Power BI Desktop – Main tool for report design and visualization.
@@ -22,6 +26,7 @@ The dashboard was built using the following tools and technologies:
 📁 File Format – .pbix for dashboard file; .png for static preview.
 
 🗃️ 4. Data Source
+
 Source: Internal Amazon sales records (hypothetical/aggregated data for demonstration).
 Structured across dimensions like:
 
@@ -39,6 +44,7 @@ Data fields include:
 Product Category, Price, Sales Date, Product Description, Review Count, Units Sold.
 
 🌟 5. Features / Highlights
+
 • Business Problem
 Retail businesses often face challenges in tracking category performance, identifying fast-moving products, and analyzing seasonal trends in sales and customer feedback.
 
@@ -105,4 +111,6 @@ Quarter-based filtering to view seasonal shifts
 📦 Customer Feedback Trends: Use review volume to guide inventory decisions and marketing angles.
 
 🖼️ 6. Screenshots / Demos
+
 🔍 Dashboard Preview
+https://github.com/bharambepooja/Amazon-Products/blob/main/Sales%20Analysis%20Amazon%20Products.png
